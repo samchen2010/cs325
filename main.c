@@ -2,10 +2,6 @@
  * sorted-list.c
  */
 // change 3
-// change 4
-change 5
-//change 1
-//change 2
 
 #include <stdio.h>
 #include <ctype.h>
